@@ -1,12 +1,8 @@
 <p align="center">
-  <a href="https://github.com/ingrydk">
-    <img src="https://icons8.com.br/icon/52539/github" alt="Guia Git" width="160" height="160">
-  </a>
-  <h1 align="center">Guia Git ⭐</h1>
-  <footer>
-        <p align="center">Feito com 💖 por <a href="https://github.com/ingrydk" target="_blank">Ingryd</a></p>
-  </footer>
-</p>
+  <img src = "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="300" height="300">
+  <h1 align="center">Guia Github ⭐</h1>
+  <p align="center">Feito com 💖 por <a href="https://github.com/ingrydk" target="_blank">Ingryd</a></p>
+  </p>
 
 ## :dart: Guia super básico e iniciante
 
