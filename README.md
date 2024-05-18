@@ -1,6 +1,6 @@
 <p align="center">
-  <img src = "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="300" height="300">
-  <h1 align="center">Guia Github ⭐</h1>
+  
+  <h1 align="center">Guia Git ⭐</h1>
   <p align="center">Feito com 💖 por <a href="https://github.com/ingrydk" target="_blank">Ingryd</a></p>
   </p>
 
@@ -16,7 +16,7 @@
 
 ## ⚠️ Como Clonar um Repositório Remoto para o Seu Computador 💻
 
-- Abra o Git Bash
+- Abra o Git Bash ou o terminal de sua preferência
 > Você pode encontrá-lo facilmente pesquisando por "Git Bash" no menu Iniciar do seu computador e clicando para abrir.
 >
 > Alternativamente, se já estiver na pasta desejada no seu explorador de arquivos, basta clicar com o botão direito do mouse dentro dela e selecionar "Git Bash Here". Isso abrirá o Git Bash nesse local específico e você poderá pular para o próximo passo. 
