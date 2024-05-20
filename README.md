@@ -77,6 +77,10 @@ git add .
 git add nome_do_arquivo
 ```
 
+- Criando ligação entre um repositório remoto e um local
+```
+git add origin url_repositorio
+```
 - Fazer commit
 ```bash
 git commit -m "Adiciona novos recursos"
