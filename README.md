@@ -34,9 +34,28 @@
 ```bash
 git clone url_do_repositório
 ```
->O Git irá baixar uma cópia do repositório para a pasta onde você está no Git Bash. 
+>O Git irá baixar uma cópia do repositório para a pasta onde você está no Git Bash.
+>
+>## ⚠️ Como Vincular um Repositório Remoto em Sua Máquina 🚀
+- Abra o seu terminal e busque a pasta onde será iniciado o seu repositório local (no meu caso, é no windows)
+```
+cd nome_da_pasta
+```
+- Caso tenha subpastas nela, faça (sim, tem um ponto ali):
+```
+cd .nome_da_pasta_final
+```
+- Inicie o repositório nela:
+```
+git init
+```
+- Vincule-o com um repositório remoto previamente criado:
+```
+git remote add origin link_do_repositorio
+```
 
-## ⚠️ Como Subir Seu Código para o Repositório Remoto 🚀
+
+## ⚠️ Como Subir Seu Código de um Repositório Local para o Repositório Remoto 🚀
 - Faça Suas Mudanças
 >Abra a pasta do repositório no seu computador e faça as alterações nos arquivos usando o editor de texto de sua preferência (crie seu código, bb). 
 
