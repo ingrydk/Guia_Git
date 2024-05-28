@@ -36,7 +36,7 @@ git clone url_do_repositório
 ```
 >O Git irá baixar uma cópia do repositório para a pasta onde você está no Git Bash.
 >
->## ⚠️ Como Vincular um Repositório Remoto em Sua Máquina 🚀
+## ⚠️ Como Vincular um Repositório Remoto em Sua Máquina 🚀
 - Abra o seu terminal e busque a pasta onde será iniciado o seu repositório local (no meu caso, é no windows)
 ```
 cd nome_da_pasta
